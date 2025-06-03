@@ -148,7 +148,7 @@
 </body>
 <script>
     function Fetchdata() {
-    fetch("http://localhost:3000/cart").then((res) => res.json())
+    fetch("https://nixon-r44n.onrender.com/cart").then((res) => res.json())
         .then((data) => {
             Cardlist(data)
             productdata=data
@@ -190,7 +190,7 @@ document.addEventListener("click", (e) => {
 });
 
 function deleteProduct(id) {
-    fetch(`http://localhost:3000/cart/${id}`, {
+    fetch(`https://nixon-r44n.onrender.com/cart/${id}`, {
         method: "DELETE"
     })
     .then((res) => res.json())
