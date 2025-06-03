@@ -1,0 +1,170 @@
+{
+  "products": [
+    {
+      "url": "https://www.nixon.com/products/staple-black",
+      "title": "Staple",
+      "price": "$125.00",
+      "rating": "Star Rating",
+      "reviews": 504,
+      "remainingColors": "+1 more",
+      "badge": "Sustainable",
+      "image": [
+        "https://www.nixon.com/cdn/shop/files/A1309-000-view1_500x.png?v=1718724826",
+        "https://www.nixon.com/cdn/shop/files/A1309-2889-view1_500x.png?v=1718724839",
+        "https://www.nixon.com/cdn/shop/files/A1309-010-view1_500x.png?v=1718724828",
+        "https://www.nixon.com/cdn/shop/files/A1309-867-view1_500x.png?v=1718724849"
+      ],
+      "id": "562a"
+    },
+    {
+      "url": "https://www.nixon.com/products/ripper-black-black",
+      "title": "Ripper",
+      "price": "$85.00",
+      "rating": "Star Rating",
+      "reviews": 26,
+      "remainingColors": "+5 more",
+      "badge": null,
+      "image": [
+        "https://www.nixon.com/cdn/shop/files/A1399-004-view1_500x.png?v=1718725211",
+        "https://www.nixon.com/cdn/shop/files/A1399-5230-view1_500x.png?v=1718725223",
+        "https://www.nixon.com/cdn/shop/files/A1399-047-view1_500x.png?v=1718725216",
+        "https://www.nixon.com/cdn/shop/files/A1399-5231-view1_500x.png?v=1718725225"
+      ],
+      "id": "5185"
+    },
+    {
+      "url": "https://www.nixon.com/products/time-teller-gold-green-sunray",
+      "title": "Time Teller",
+      "price": "$125.00",
+      "rating": "Star Rating",
+      "reviews": 2030,
+      "remainingColors": "+17 more",
+      "badge": "Engravable",
+      "image": [
+        "https://www.nixon.com/cdn/shop/files/A045-1919-view1_500x.png?v=1718723933",
+        "https://www.nixon.com/cdn/shop/files/A045-1919-view1_500x.png?v=1718723933",
+        "https://www.nixon.com/cdn/shop/files/A045-2800-view1_500x.png?v=1718723967",
+        "https://www.nixon.com/cdn/shop/files/A045-001-view1_500x.png?v=1718723920"
+      ],
+      "id": "c9d5"
+    },
+    {
+      "url": "https://www.nixon.com/products/sentry-stainless-steel-all-black-black",
+      "title": "Sentry Stainless Steel",
+      "price": "$275.00",
+      "rating": "Star Rating",
+      "reviews": 1105,
+      "remainingColors": "+13 more",
+      "badge": "Engravable",
+      "image": [
+        "https://www.nixon.com/cdn/shop/files/A356-1147-view1_500x.png?v=1718725394",
+        "https://www.nixon.com/cdn/shop/files/A356-502-view1_500x.png?v=1718725433",
+        "https://www.nixon.com/cdn/shop/files/A356-1919-view1_500x.png?v=1723824231",
+        "https://www.nixon.com/cdn/shop/files/A356-1919-view1_500x.png?v=1723824231"
+      ],
+      "id": "392b"
+    },
+    {
+      "url": "https://www.nixon.com/products/sentry-leather-custom-build",
+      "title": "Sentry Leather",
+      "price": "$200.00",
+      "rating": "Star Rating",
+      "reviews": 1423,
+      "remainingColors": "+6 more",
+      "badge": "Customizable & Engravable",
+      "image": [
+        "https://www.nixon.com/cdn/shop/files/A105-2800-view1_500x.png?v=1718724171",
+        "https://www.nixon.com/cdn/shop/files/A105-1041-view1_500x.png?v=1718724145",
+        "https://www.nixon.com/cdn/shop/files/A105-2001-view1_500x.png?v=1718724157",
+        "https://www.nixon.com/cdn/shop/files/A105-1524-view1_500x.png?v=1718724150"
+      ],
+      "id": "d3ce"
+    },
+    {
+      "url": "https://www.nixon.com/products/heat-all-black",
+      "title": "Heat",
+      "price": "$150.00",
+      "rating": "Star Rating",
+      "reviews": 495,
+      "remainingColors": "+6 more",
+      "badge": null,
+      "image": [
+        "https://www.nixon.com/cdn/shop/files/A1320-001-view1_500x.png?v=1658782395",
+        "https://www.nixon.com/cdn/shop/files/A1320-1085-view1_500x.png?v=1718724890",
+        "https://www.nixon.com/cdn/shop/files/A1320-130-view1_500x.png?v=1718724892",
+        "https://www.nixon.com/cdn/shop/files/A1320-130-view1_500x.png?v=1718724892"
+      ],
+      "id": "29f9"
+    },
+    {
+      "url": "https://www.nixon.com/products/time-teller-solar-silver-jade-sunray",
+      "title": "Time Teller Solar",
+      "price": "$150.00",
+      "rating": "Star Rating",
+      "reviews": 55,
+      "remainingColors": "+2 more",
+      "badge": null,
+      "image": [
+        "https://www.nixon.com/cdn/shop/files/A1369-5172-view1_500x.png?v=1718725104",
+        "https://www.nixon.com/cdn/shop/files/A1369-510-view1_500x.png?v=1718725099",
+        "https://www.nixon.com/cdn/shop/files/A1369-5161-view1_500x.png?v=1718725102",
+        "https://www.nixon.com/cdn/shop/files/A1369-756-view1_500x.png?v=1718725108"
+      ],
+      "id": "3a69"
+    },
+    {
+      "url": "https://www.nixon.com/products/re-run-all-gold",
+      "title": "Re-Run",
+      "price": "$125.00",
+      "rating": "Star Rating",
+      "reviews": 580,
+      "remainingColors": null,
+      "badge": null,
+      "image": [
+        "https://www.nixon.com/cdn/shop/files/A045-1919-view1_500x.png?v=1718723933",
+        "https://www.nixon.com/cdn/shop/files/A158-001-view1_500x.png?v=1718725265",
+        "https://www.nixon.com/cdn/shop/files/A158-000-view1_500x.png?v=1718725262"
+      ],
+      "id": "021f"
+    },
+    {
+      "url": "https://www.nixon.com/cdn/shop/files/A1058-1031-view1_500x.png?v=1718724238",
+      "title": "Porter Leather",
+      "price": "$125.00",
+      "rating": "Star Rating",
+      "reviews": 558,
+      "remainingColors": null,
+      "badge": null,
+      "image": [
+        "https://www.nixon.com/cdn/shop/files/A1058-1031-view1_500x.png?v=1718724238",
+        "https://www.nixon.com/cdn/shop/files/A1058-001-view1_500x.png?v=1718724235",
+        "https://www.nixon.com/cdn/shop/files/A1058-2494-view1_500x.png?v=1718724247"
+      ],
+      "id": "ed4e"
+    },
+    {
+      "url": "https://www.nixon.com/products/disk-black-black-negative",
+      "title": "Disk",
+      "price": "$125.00",
+      "rating": "Star Rating",
+      "reviews": 54,
+      "remainingColors": null,
+      "badge": null,
+      "image": [
+        "https://www.nixon.com/cdn/shop/files/A1370-5191-view1_500x.png?v=1718725113",
+        "https://www.nixon.com/cdn/shop/files/A1370-5194-view1_500x.png?v=1718725117",
+        "https://www.nixon.com/cdn/shop/files/A1370-5192-view1_500x.png?v=1718725115",
+        "https://www.nixon.com/cdn/shop/files/A1370-5190-view1_500x.png?v=1718725111"
+      ],
+      "id": "6a54"
+    }
+  ],
+  "cart": [
+    {
+      "id": "c0d2",
+      "image": "https://www.nixon.com/cdn/shop/files/A1309-000-view1_500x.png?v=1718724826",
+      "title": "Staple",
+      "price": "$125.00"
+    }
+  ]
+}

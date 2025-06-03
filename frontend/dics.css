@@ -1,0 +1,29 @@
+.sy-img
+{
+    height: 40px;
+    width:80%;
+    margin: auto;
+    margin-bottom: 10px;
+    border:1px solid black;
+    justify-content: space-evenly;
+}
+.box
+{
+    width: 16%;
+    height: 100%;
+    background-color: aqua;
+}
+h4
+{
+    margin-left: 100px;
+
+}
+.btn
+{
+    margin-left: 115px;
+}
+.fy img{
+    margin-left:60px ;
+
+
+}

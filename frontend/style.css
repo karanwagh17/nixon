@@ -1,0 +1,460 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.section
+{
+    width: 100%;
+}
+/* top header  */
+ 
+li
+{
+    list-style: none;
+}
+li a 
+{
+    text-decoration: none;
+}
+
+    
+    .header-section {
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        height: 100px;
+    
+    }
+    .input-first input
+    {
+        border: none;
+        border-bottom: 1px solid black;
+        /* outline: 2px solid  #ead5d5; */
+        outline: red;
+        border-color: #adadad;
+        width: 260px;
+        height:40px ;
+        border-radius: 5px;
+
+    }
+     .bi-search
+     {
+        position: relative;
+        
+        left: 23px;
+        font-weight: bold;
+     }
+      ::placeholder
+      {
+        padding: 0px 0px 0px 30px;
+        margin-left:30px ;
+      }
+
+
+.logo
+{
+ text-align: center;
+}
+
+.ord-btn
+{
+    justify-content: space-between;
+    margin-bottom: 0px;
+
+  
+
+}
+.ord-bt
+{
+    
+    font-size: 15px;
+    color: black;
+    
+}
+
+/* sec header  */
+.menu-a{
+    color: black;
+}
+/* icon content  */
+.icon-content
+{
+    height: 250px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 10px;
+    position: absolute;
+    bottom: 210px;
+    border-top: 1px solid black;
+}
+.icon-container
+{
+    height: 250px;
+    width: 90%;
+    background-color: rgb(255, 0, 0);
+  margin: auto;
+
+    border-top: 1px solid black;
+}
+.first-cont
+{
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+/* second section  */
+.back-img-content
+{
+    width: 310px;
+    position:absolute ;
+    top: 150px;
+    left: 40px;
+    color: #fff;
+}
+.back-img-content h1
+{
+    font-weight: bold;
+
+}
+.back-img-content p
+{
+    font-weight: 600;
+}
+.back-img-content a{
+    text-decoration: none;
+    color: #fff;
+    
+    padding: 10px 25px;
+    background-color:#a67f6b ;
+    border-radius: 3px ;
+}
+/* <!-- third section  -->  */
+.sec-back-content
+{
+    position: absolute;
+    bottom: 80px;
+    left: 30px;
+}
+
+.sec-back-content a{
+    padding: 10px 25px;
+    background-color: black;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 3px ;
+    margin: 5px 0px 0px 0px ;
+    font-weight: 600;
+
+ }
+.sec-back-content h1 {
+    margin-bottom: 16px;
+}
+/* fourth section   */
+.third-back-content
+
+{
+    position: relative;
+  
+    justify-content: center;
+    bottom: 100px;
+    padding-left: 100px;
+}
+  
+.th-a
+{
+    text-align: center;
+  padding: 0px 0px 0px 77px;
+  color: white;
+  text-decoration: none;
+  border: 1 px solid white;
+}
+.th-h2
+{
+    color: white;
+    padding: 0px 0px 0px 42px;
+    font-size: 25px;
+} 
+
+
+/* fifte section slide  */
+.slider-container {
+  
+    margin: 50px auto;
+    overflow: hidden;
+    position: relative;
+   
+}
+
+.slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.product-card {
+    width: 33.33%; /* 100% / 3 products */
+    padding: 20px;
+    /* box-sizing: border-box; */
+    text-align: center;
+    height: 430px;
+}
+
+.product-card img {
+    width: 300px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.product-card h5 {
+    margin: 10px 0 5px 0;
+}
+
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.arrow-left {
+    left: 0;
+}
+
+.arrow-right {
+    right: 0;
+}
+
+/* Pagination styles */
+.pagination {
+    display: flex;
+    /* padding-left: 322px; */
+    list-style: none;
+    justify-content: center;
+}
+.pagination-button {
+    display: inline-block;
+            width: 15px;   /* Increased width for better visibility */
+            height: 15px;  /* Increased height for better visibility */
+            border-radius: 0; /* Set border-radius to 0 to make squares */
+            background-color: #ccc;
+            margin: 0 5px;
+            cursor: pointer;
+}
+
+.pagination-button.active {
+    background-color: #000;
+}
+.down-img
+{
+    width: 80%;
+    height: 200px;
+}
+.min-img
+{
+    border: 1px solid rgb(243, 214, 214);
+}
+.max {
+    width: 67%;
+    justify-content: space-evenly;
+    margin: auto;
+    height: 49px;
+    margin-top: 20px;
+    position: relative;
+    left: 51px;
+    top: 24px;
+}
+.min-img img{
+    width: 100%;
+    height: 100%;
+}
+.min-img {
+    height: 40px;
+}
+
+/* sixth section  */
+.sixth
+{
+    margin-top: 150px;
+}
+.nixon
+{
+    text-align: center;
+}
+.sixth-p
+{
+    text-align: center;
+}
+.sixth-btn {
+    /* margin: auto; */
+    position: relative;
+    left: 44%;
+    top: 10px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+
+/* seventh section  */
+.carousel-container {
+    position: relative;
+    max-width: 1350px;
+    overflow: hidden;
+    margin: auto;
+}
+
+/* Wrapper for the carousel slides */
+.carousel-wrapper {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+/* Individual slides in the carousel */
+.carousel-slide {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+.carousel-slide img {
+    width: 100%;
+    height: auto;
+}
+
+/* Next and previous buttons for the carousel */
+.carousel-prev, .carousel-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    z-index: 10;
+}
+
+.carousel-prev {
+    left: 10px;
+}
+
+.carousel-next {
+    right: 10px;
+}
+/* .eight  */
+.eight
+{
+    height: 150px; 
+    width: 100%;
+    
+}
+.nix-detail
+{
+    font-size: 10px;
+    width: 60%;
+    margin: auto;
+    line-height: 1.57;
+    margin-top: 40px;
+    text-align: center;
+
+}
+.eight img{
+    width: 100%;
+    height:100% ;
+  
+   
+   
+
+}
+.eight h5
+{
+    position: absolute;
+    top: 45px;
+    left: 70px;
+    color: #fff;
+    background-color: hsl(0, 0%, 50%,0.4);
+    padding: 10PX 5PX;
+    
+    
+}
+.eight a {
+    position: absolute;
+    top: 45px;
+    text-decoration: none;
+    padding: 5px 20px;
+    background-color: white;
+    right: 600px;
+    border: 1px solid black;
+    color: black;
+}
+
+/* footer  */
+.footer
+{
+    width: 80%;
+    margin: auto;
+}
+.sec i{
+    margin: 0px 10px;
+    font-size: 30px;
+} 
+
+.footer-discription
+{
+    width: 65%;
+    height: 300px;
+   
+}
+
+.footer-title {
+    margin-bottom: 40px;
+    position: relative;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.footer-title:after {
+    content: "";
+    position: absolute;
+    bottom: -12px;
+    height: 1.5px;
+    width: 35px;
+    background: #000;
+    left: 0;
+}
+
+.footer-menu
+{
+    padding: 0px 0px 0px 0px;
+    margin-top: 20px;
+}
+
+.footer-menu li
+{
+margin: 10px 0px 0px 0px;
+font-size: 15px;
+}
+
+
+
+
+.footer-menu li a
+{
+    color: rgb(81, 77, 77);
+}
+
+
+
+
+
+
